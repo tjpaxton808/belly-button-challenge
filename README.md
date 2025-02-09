@@ -28,3 +28,4 @@ To view the dashboard locally or to develop further:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/tjpaxton808/belly-button-challenge.git
+site deployed at: https://tjpaxton808.github.io/belly-button-challenge/
